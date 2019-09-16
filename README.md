@@ -3,4 +3,4 @@
 
 ![](images/Capture.PNG)
 
-![](images/Capture.2PNG)
+![](images/Capture2.PNG)
