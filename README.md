@@ -3,6 +3,6 @@
 ![](images/Capture.PNG)
 
 ------
-Authors:
-Diana Yu Yu
-Rene Elias
+# Authors:
+- Diana Yu Yu
+- Rene Elias
