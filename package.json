@@ -34,10 +34,7 @@
   "homepage": "https://github.com/CSC-648-SFSU/csc648-sp19-Team06#readme",
   "dependencies": {
     "@reach/router": "^1.2.1",
-    "petfinder-client": "^1.0.1",
-    "react": "15.x || 16.x || 16.8.6",
-    "react-dom": "15.x || 16.x || 16.8.6",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.5",
     "bootstrap": "^4.3.1",
@@ -47,8 +44,11 @@
     "express": "^4.16.4",
     "google-map-react": "^1.1.4",
     "jade": "^1.11.0",
+    "petfinder-client": "^1.0.1",
     "pg": "^7.9.0",
-    "pug": "^2.0.3"
+    "pug": "^2.0.3",
+    "react": "15.x || 16.x || 16.8.6",
+    "react-dom": "15.x || 16.x || 16.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
